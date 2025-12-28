@@ -32,9 +32,6 @@ Project/
 ├── test.csv # Testing dataset
 └── README.md
 
-markdown
-Copy code
-
 ---
 
 ## 🔎 Dataset Description
@@ -89,9 +86,8 @@ The notebook follows a structured machine learning workflow:
 ''bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 2️⃣ Launch the Notebook
-bash
-Copy code
 jupyter notebook prediction_code.ipynb
+
 3️⃣ Execute All Cells
 Run the notebook cells sequentially to:
 
